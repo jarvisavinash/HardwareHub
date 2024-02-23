@@ -1,0 +1,19 @@
+.profileclass {
+    position: relative;
+}
+
+.profile {
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+
+.info {
+    position: absolute;
+    top: 90px;
+    left: 80px;
+    right: 700px;
+    color: black;
+    text-align: justify;
+}
+
